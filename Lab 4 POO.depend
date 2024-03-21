@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1680188139 source:d:\lab 4 poo\main.cpp
+	"triunghi.cpp"
+	"teste.cpp"
+	<iostream>
+
+1680187015 d:\lab 4 poo\triunghi.cpp
+	"triunghi.h"
+	<iostream>
+	<cmath>
+
+1680187015 d:\lab 4 poo\triunghi.h
+	<iostream>
+
+1680187015 d:\lab 4 poo\teste.cpp
+	<assert.h>
+	<iostream>
+
