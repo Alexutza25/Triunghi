@@ -1,1 +1,2 @@
 # Triunghi
+Teste pentru triunghiuri
